@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.entrada{
+  color: #8C5C03;
+  background-color: #0C0D0B;
+}
+
+
+
+.contenedorFlex{
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-evenly;
+  row-gap: 20px;
+  column-gap: 10px;
+}

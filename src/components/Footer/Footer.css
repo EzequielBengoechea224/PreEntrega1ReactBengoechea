@@ -1,0 +1,21 @@
+.footerFlex{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    background-color: #0C0D0B;
+    justify-content: space-between;
+    column-gap: 10rem;
+}
+
+.footerFlex .center{
+    text-align: center;
+}
+
+.centerr{
+    
+    text-align: center;
+}
+
+.maxWid{
+    width: 50%;
+}

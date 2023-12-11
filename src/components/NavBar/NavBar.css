@@ -1,0 +1,24 @@
+nav{
+    background-image: linear-gradient(#F2CB05,#0C0D0B);
+    color: #0C0D0B;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+    padding-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color:#0C0D0B
+}
+ul li{
+    list-style: none;
+}
+
